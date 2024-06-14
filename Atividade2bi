@@ -1,0 +1,14 @@
+Isabelley de Paula Nascimento. 2A
+responda as seguintes questões:
+    Qual a diferença entre as tag <h2> e <h4>?
+        Existe algum problema em:<p><center>texto</p><center>?
+            Qual a função da tag, <p>?
+            
+ RESPOSTAS:
+     1)
+As tag <h2> e <h4> são diferentes no visual e a hierarquia.
+<h2> Representa um cabeçalho de segundo nível, e é usado para seções principais de um documento, embaixo do título principal.
+<h4> Represneta um cabeçalho de quarto nível.
+2)Estrutura Incorreta: A tag <center> foi aberta dentro do <p>, mas não foi fechada antes do fechamento do parágrafo </p>. Isso pode causar problemas de renderização, pois o HTML não permite a sobreposição de elementos bloqueados de forma não estruturada.
+3)
+A tag <p> em HTML é usada para definir um parágrafo de texto. Ela cria um bloco de texto que é separado de outros blocos de texto por espaços em branco, tornando o conteúdo mais legível e organizado.
